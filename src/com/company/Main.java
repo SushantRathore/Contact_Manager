@@ -42,6 +42,5 @@ public class Main {
         searchResult =myContactManager.searchContact("Meenakshi");
         System.out.println(searchResult.name + " : " + searchResult.phoneNumber +"  " + searchResult.email);
 // project completed here
-        int k;
     }
 }
