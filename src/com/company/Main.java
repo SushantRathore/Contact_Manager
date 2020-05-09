@@ -8,6 +8,7 @@ public class Main {
         // write your code here
         ContactsManager myContactManager = new ContactsManager();
 
+        //creating Contact variable
         Contact searchResult;
 
         Contact Aman =new Contact();
